@@ -15,19 +15,20 @@ def random_predict(number:int=np.random.randint(1, 101)) -> int:
         int: Число попыток
     """
       
-    count = 0
+    count = 0 # количество попыток угадывания   
     number = np.random.randint(1, 101) # загадываем число
     predict_number = np.random.randint(1, 101)
+    
     while True:
         count += 1
         
         if number == predict_number:
             break # выход из цикла, если угадали
-        elif number < predict_number:
-            predict_number = np.random.randint(number, predict_number)
-        else:
-            predict_number = np.random.randint(predict_number+1, number+1)
+        elif number < predict_number: # если предлагаемое число больше заданного,  
+            predict_number = np.random.randint(number, predict_number)# корректируем наше число.
+        else: # если предлагаемое число меньше заданного,  
+            predict_number = np.random.randint(predict_number+1, number+1)# корректируем наше число.
                    
-    return count
+    return f'Количестов попыток для угадывания: {count}'
 
 print(random_predict(100))
