@@ -30,3 +30,6 @@ From the [Skillfactory Data Science cource]
 - 1 балл	Код соответствует стандарту PEP8.
 - 1 балл	Код воспроизводим.
 Максимально возможное количество баллов за задание — 5.
+
+## Игра: Угадай число.
+[Ссылка](https://github.com/sgt-A1arik/Dst-1008_practory/blob/main/Hm-Work-1_Unit-8/Unit_8_Final.py)
