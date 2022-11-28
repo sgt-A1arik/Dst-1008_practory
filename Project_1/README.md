@@ -42,6 +42,7 @@ From the [Skillfactory Data Science cource]
 
 ### Ссылка на скачивание материалов проекта:
 
-ExchangeRates.csv - [Cсылка](https://drive.google.com/file/d/1hIkK6eqxZM4GEYmIG7CxIEGiyc1a4FY0/view?usp=sharing)
-dst-3.0_16_1_hh_database.csv - [Ссылка](https://drive.google.com/file/d/1iuPpiUVvi_enm1Cja0VyWtRt_qAE0J38/view?usp=sharing)
+1. ExchangeRates.csv - [Cсылка](https://drive.google.com/file/d/1hIkK6eqxZM4GEYmIG7CxIEGiyc1a4FY0/view?usp=sharing)
+
+2. dst-3.0_16_1_hh_database.csv - [Ссылка](https://drive.google.com/file/d/1iuPpiUVvi_enm1Cja0VyWtRt_qAE0J38/view?usp=sharing)
 
