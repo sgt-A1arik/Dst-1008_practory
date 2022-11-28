@@ -9,7 +9,7 @@ From the [Skillfactory Data Science cource]
 * [2. преобразование данных]
 * [3. разведывательный анализ]
 * [4. очистка данных]
-* [5. ноутбук-решение](https://github.com/sgt-A1arik/Dst-1008_practory/blob/main/Project_1/Project-1._final.ipynb)
+* [5. ноутбук-решение](https://github.com/sgt-A1arik/Dst-1008_practory/blob/main/Project_1/Project-1._final.ipynb) .
 
 
 ## УСЛОВИЯ УСПЕШНОГО ВЫПОЛНЕНИЯ ПРОЕКТА:
