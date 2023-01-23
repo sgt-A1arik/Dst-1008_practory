@@ -5,16 +5,16 @@ From the [Skillfactory Data Science cource]
 
 ## Оглавление:
 
-* [1. базовый анализ структуры данных]
-* [2. преобразование данных]
-* [3. разведывательный анализ]
-* [4. очистка данных]
-* [5. ноутбук-решение]()
+* # 1. базовый анализ структуры данных.
+* # 2. преобразование данных.
+* # 3. разведывательный анализ.
+* # 4. очистка данных.
+* # [5. ноутбук-решение](https://github.com/sgt-A1arik/Dst-1008_practory/blob/Dst-1008_practory/Project_1/Project-1._final.ipynb).
 
 
 ## УСЛОВИЯ УСПЕШНОГО ВЫПОЛНЕНИЯ ПРОЕКТА:
 Внимательно изучить детали задачи.
-Скачать уже знакомый датасет [(https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)] и ноутбук-шаблон [(https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/Project-1._Ноутбук-шаблон.ipynb)].
+Скачать уже знакомый датасет [link](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) и ноутбук-шаблон [link](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/Project-1._Ноутбук-шаблон.ipynb).
 Обязательно ознакомиться с дополнительным теоретическим материалом, который даётся перед заданием.
 Воспользоваться нашими советами и подсказками при выполнении проекта.
 Ответить на все контрольные вопросы: за них вы можете максимально набрать 30 баллов на платформе.
@@ -42,6 +42,6 @@ From the [Skillfactory Data Science cource]
 
 ### Ссылка на скачивание материалов проекта:
 
-ExchangeRates.csv - [Cсылка]: (https://drive.google.com/file/d/1hIkK6eqxZM4GEYmIG7CxIEGiyc1a4FY0/view?usp=sharing)
-dst-3.0_16_1_hh_database.csv - [Ссылка]: (https://drive.google.com/file/d/1iuPpiUVvi_enm1Cja0VyWtRt_qAE0J38/view?usp=sharing)
+1. ExchangeRates.csv - [Cсылка](https://drive.google.com/file/d/1hIkK6eqxZM4GEYmIG7CxIEGiyc1a4FY0/view?usp=sharing).
 
+2. dst-3.0_16_1_hh_database.csv - [Ссылка](https://drive.google.com/file/d/1iuPpiUVvi_enm1Cja0VyWtRt_qAE0J38/view?usp=sharing).
