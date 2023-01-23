@@ -10,7 +10,7 @@ From the [Skillfactory Data Science cource]
 * # 2. Детальный анализ вакансий.
 * # 3. Анализ работодателей.
 * # 4. 6. Предметный анализ.
-* # [5. ноутбук-решение](https://github.com/sgt-A1arik/Dst-1008_practory_2/blob/Dst-1008_practory/Project2_Pthn%2Bsql/Project_2_Ноутбук_шаблон.ipynb).
+* # [5. ноутбук-решение](https://github.com/sgt-A1arik/Dst-1008_practory/blob/main/Project2_Pthn%2Bsql/Project_2_Ноутбук_шаблон.ipynb).
 
 
 ## УСЛОВИЯ УСПЕШНОГО ВЫПОЛНЕНИЯ ПРОЕКТА:
